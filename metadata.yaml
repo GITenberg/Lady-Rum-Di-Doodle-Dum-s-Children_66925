@@ -5,12 +5,17 @@ contributor:
     agent_name: Marion, Francis
     gutenberg_agent_id: '54033'
     url: http://www.gutenberg.org/2009/agents/54033
+covers:
+- cover_type: archival
+  image_path: 66925-h/images/cover.jpg
 creator:
   author:
     agent_name: Dinkelspiel, S. B.
     gutenberg_agent_id: '54032'
     url: http://www.gutenberg.org/2009/agents/54032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66925#Lady-Rum-Di-Doodle-Dum-s-Children
 gutenberg_issued: '2021-12-11'
 identifiers:
   gutenberg: '66925'
